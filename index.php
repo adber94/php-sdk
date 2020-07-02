@@ -152,7 +152,6 @@ $appName = explode('.', $domain)[0];
         "condition" => "new",
         "description" => "Item de Teste. Mercado Livre's PHP SDK.",
         "video_id" => "RXWn6kftTHY",
-        "warranty" => "12 month",
         "pictures" => array(
             array(
                 "source" => "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ray_Ban_Original_Wayfarer.jpg"
@@ -207,7 +206,6 @@ $appName = explode('.', $domain)[0];
         "condition" => "new",
         "description" => "Item de Teste. Mercado Livre's PHP SDK.",
         "video_id" => "RXWn6kftTHY",
-        "warranty" => "12 month",
         "pictures" => array(
             array(
                 "source" => "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ray_Ban_Original_Wayfarer.jpg"
